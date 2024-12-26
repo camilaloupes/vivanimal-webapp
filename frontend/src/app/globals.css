@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-petLove {
+    background-image: url('/petLove2.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-vetPartner {
+    background-image: url('/vetPartner.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-mbway {
+    background-image: url('/mbway.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
